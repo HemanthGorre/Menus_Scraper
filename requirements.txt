@@ -1,0 +1,8 @@
+pandas
+openpyxl
+duckdb
+pdfplumber
+camelot-py[cv]
+pypdfium2
+google-generativeai
+rapidfuzz
